@@ -1,0 +1,30 @@
+{
+  "name": "excel-course",
+  "version": "1.0.0",
+  "description": "Pure Javascript Excel course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IL1U/Excel-course.git"
+  },
+  "keywords": [
+    "JS",
+    "javascript",
+    "excel",
+    "practice"
+  ],
+  "author": "IL1U <iliu@yandex.ru>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IL1U/Excel-course/issues"
+  },
+  "homepage": "https://github.com/IL1U/Excel-course#readme",
+  "private": true,
+  "devDependencies": {
+    "webpack": "^5.36.2",
+    "webpack-cli": "^4.6.0"
+  }
+}
